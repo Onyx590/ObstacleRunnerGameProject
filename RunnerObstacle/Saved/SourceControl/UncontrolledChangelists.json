@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Blackstone/Documents/Unreal Projects/RunnerObstacle/Content/TestLevels/TestLevel1.umap",
+				"C:/Users/Blackstone/Documents/Unreal Projects/RunnerObstacle/Content/TestObjects/ObstacleProt1.uasset",
+				"C:/Users/Blackstone/Documents/Unreal Projects/RunnerObstacle/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Users/Blackstone/Documents/Unreal Projects/RunnerObstacle/Content/Blueprints/TestHitActor/BP_HitActor.uasset",
+				"C:/Users/Blackstone/Documents/Unreal Projects/RunnerObstacle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
